@@ -7,3 +7,4 @@ return(a-b) ;
 float diviser( int a , int b) {
 return ((float) a/b);
 }
+//fonction somme
