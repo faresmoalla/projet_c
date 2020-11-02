@@ -9,10 +9,10 @@ do{
 printf("\nsaisie du second nombre:");
 scanf("%d",b);
 }
-while (b==0);
-printf("\n %d + %d = %d",a,b,a+b);
-printf("\n %d - %d = %d",a,b,a-b);
-printf("\n %d / %d = %f",a,b,(float) a/b);
-return(0); 
+} while(b == 0);
+printf("\n%d + %d= %d", a, b, sommer(a, b));
+printf("\n%d - %d= %d", a, b, soustraire(a, b));
+printf("\n%d / %d = %f\n", a, b, diviser(a, b));
+return (0);
 }
 //programme
