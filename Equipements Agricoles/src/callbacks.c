@@ -253,7 +253,7 @@ if(f!=NULL)
 		gtk_toggle_button_set_active (GTK_TOGGLE_BUTTON(marque4),1);
 	if(strcmp(e.marque,"FIAT")==0)
 		gtk_toggle_button_set_active (GTK_TOGGLE_BUTTON(marque5),1);
- //COMBO BOX
+/* //COMBO BOX
 if(strcmp(e.type,"tracteur")==0)						
    gtk_combo_box_set_active (GTK_COMBO_BOX(type), 0);
 if(strcmp(e.type,"charrure_a_disques")==0)						
@@ -261,7 +261,7 @@ if(strcmp(e.type,"charrure_a_disques")==0)
 if(strcmp(e.type,"chenille_agricole")==0)						
    gtk_combo_box_set_active (GTK_COMBO_BOX(type), 2);
 if(strcmp(e.type,"moissonneuse")==0)						
-   gtk_combo_box_set_active (GTK_COMBO_BOX(type), 3);
+   gtk_combo_box_set_active (GTK_COMBO_BOX(type), 3);*/
 			
 		}
 	}
