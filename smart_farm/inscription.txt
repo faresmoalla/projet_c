@@ -1,4 +1,0 @@
-ff ff ff ff ff 1 1 1996 ff Homme 
-aa ff ff ff ff 1 1 1996 ff Homme 
-cc cc cc cccc cc 1 1 1996 aa Femme 
-xx xx xxxx xx xx 1 1 1996 xx Homme 
