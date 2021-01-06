@@ -1,0 +1,5 @@
+moissonneuse  SOMECA  130  2020  4 1/1/2020 1/1/2020   
+tracteur  FIAT  130  2020  2 1/1/2020 1/1/2020   
+tracteur  JHON_DEERE  160  2020  80 1/1/2020 1/1/2020   
+charrure_a_disques  JHON_DEERE  130  2020  3 1/1/2020 1/1/2020 
+tracteur  RENAULT  130  2020  222 1/1/2022 14/3/2018 

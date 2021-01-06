@@ -1,0 +1,17 @@
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 9 74 ghazela   
+ 5 5 5 5 9 9 94 ghazela   
+ 5 5 5 5 5 30 95 ariana   
+ 5 5 40 5 5 30 130 ariana   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+  
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   
+ 5 5 5 5 5 5 70 ghazela   

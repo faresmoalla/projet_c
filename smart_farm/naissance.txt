@@ -1,0 +1,10 @@
+125 Veau femelle 12 11 1990 2 12 2020 
+12 Brebis femelle 1 12 2002 2 12 2020 
+145 Brebis male 3 2 2003 7 12 2022 
+a3aa3aaa vache male 31 12 2000 31 12 2020 
+123r Vache femelle 6 8 2005 3 4 2007 
+147h Chevre femelle 15 12 2000 9 12 2020 
+356 Veau male 6 2 2000 2 2 2023 
+5555 Veau male 29 3 2001 1 1 2000 
+5o Veau male 12 3 2005 9 2 2025 
+144 Chevre femelle 2 1 2000 1 1 2000 
